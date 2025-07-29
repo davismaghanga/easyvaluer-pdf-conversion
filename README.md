@@ -35,5 +35,4 @@ cd easyvaluer-pdf-conversion
 | **CodeQL & Dependabot** | Security + update badges | Enable in repo → badges auto-appear |
 | **Screenshots/GIF** | Show before/after | `peek` or `asciinema` recording in `/docs` |
 
-Feel free to copy-paste the markdown above into your repository, adjust the badges (e.g., swap to your licence if different), and commit—your GitHub page will instantly look polished and professional.
-::contentReference[oaicite:1]{index=1}
+
